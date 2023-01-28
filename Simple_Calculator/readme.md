@@ -10,7 +10,7 @@ Calculator is a simple python tkinter based calculator application.
 
 ## How to Download
 
-Download this project from here [Download Calculator]([https://github.com/SriBalaji2112/Py-Application/edit/main/Simple_Calculator])
+Download this project from here [Download Calculator](https://github.com/SriBalaji2112/Py-Application/Simple_Calculator/)
 
 ## Requirements
 
